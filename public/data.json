@@ -1,0 +1,138 @@
+[
+    {
+        "chatMessageList": [
+            {
+                "text": "hello",
+                "date": 1603830378307,
+                "isYours": true
+            },
+            {
+                "text": "yea",
+                "date": 1603830378407,
+                "isYours": false
+            },
+            {
+                "text": "How are you",
+                "date": 1603830378447,
+                "isYours": true
+            },
+            {
+                "text": "I am fine thx",
+                "date": 1603830379707,
+                "isYours": false
+            }
+        ],
+        "name": "Jane Doe",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBwgu1A5zgPSvfE83nurkuzNEoXs9DMNr8Ww&usqp=CAU",
+        "id": 0
+    },
+    {
+        "chatMessageList": [
+            {
+                "text": "Фамилия, имя отчесво?",
+                "date": 1603830378307,
+                "isYours": true
+            },
+            {
+                "text": "А! Зубенко Михаил Петрович.",
+                "date": 1603830378407,
+                "isYours": false
+            },
+            {
+                "text": "Кем являешься?",
+                "date": 1603830378447,
+                "isYours": true
+            },
+            {
+                "text": "Вор в законе",
+                "date": 1603830379711,
+                "isYours": false
+            },
+            {
+                "text": "Где именно?",
+                "date": 1603830388467,
+                "isYours": true
+            },
+            {
+                "text": "Шумиловский городок",
+                "date": 1603830388490,
+                "isYours": false
+            },
+            {
+                "text": "Кличка?",
+                "date": 1603830389001,
+                "isYours": true
+            },
+            {
+                "text": "Мафиозник!",
+                "date": 1603830399707,
+                "isYours": false
+            },
+            {
+                "text": "Ооо...",
+                "date": 1603830398447,
+                "isYours": true
+            }
+        ],
+        "name": "Мишка Зубенко",
+        "avatar": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "id": 1
+    },{
+        "chatMessageList": [
+            {
+                "text": "Что вы делаете в моем холодильнике?",
+                "date": 1603830378307,
+                "isYours": false
+            },
+            {
+                "text": "Вы хототе кушац?",
+                "date": 1603830378407,
+                "isYours": false
+            },
+            {
+                "text": "Оооо...",
+                "date": 1603830378447,
+                "isYours": false
+            }
+        ],
+        "name": "Геннадий Горин",
+        "avatar": "https://memepedia.ru/wp-content/uploads/2017/12/%D0%BC%D0%B5%D0%BC%D1%8B-%D0%B3%D0%B5%D0%BD%D0%BD%D0%B0%D0%B4%D0%B8%D0%B9-%D0%B3%D0%BE%D1%80%D0%B8%D0%BD-7.jpg",
+        "id": 2
+    },{
+        "chatMessageList": [
+            {
+                "text": "Who are you",
+                "date": 1603830378307,
+                "isYours": true
+            },
+            {
+                "text": "I am",
+                "date": 1603830378407,
+                "isYours": false
+            },
+            {
+                "text": "real",
+                "date": 1603830378447,
+                "isYours": false
+            },
+            {
+                "text": "Albert Ackurin",
+                "date": 1603830379707,
+                "isYours": false
+            },
+            {
+                "text": "WOW!",
+                "date": 1603830389707,
+                "isYours": true
+            },
+            {
+                "text": "OK then",
+                "date": 1603830489907,
+                "isYours": true
+            }
+        ],
+        "name": "Albert Ackchurin",
+        "avatar": "https://images.shoutwiki.com/ytp/1/1b/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82_%D0%90%D0%BA%D1%87%D1%83%D1%80%D0%B8%D0%BD.jpg",
+        "id": 3
+    }
+]
