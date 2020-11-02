@@ -16,7 +16,7 @@ function CurrentChat({ currentChat, sendMessage }) {
             let chuckMessage = await getRandomJoke();
             let message = new ChatMessage(chuckMessage, Date.now(), false);
             sendMessage(message, currentChat.id);
-        }, 1000)
+        }, 10000)
 
     }
     function handleKeyDown(event) {

@@ -67,6 +67,9 @@ p {
         }
         .ChatList {
             background-color: white;
+            overflow-y: scroll;
+            height: 485px;
+            
             .SidebarChatItem {
                 padding: 16px 8px 16px 20px;
                 border-bottom: 1px solid rgb(223, 224, 228);
@@ -91,6 +94,9 @@ p {
                     text-align: right;
                 }
             }
+        }
+        .ChatList::-webkit-scrollbar {
+            width: 0;
         }
     }
     .CurrentChat {
